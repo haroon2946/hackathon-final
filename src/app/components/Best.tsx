@@ -33,7 +33,7 @@ const products: Product[] = [
     discountPercentage: 30,
     rating: 5,
     reviews: 5,
-    imageUrl: "/images/necklace.jfif",
+    imageUrl: "/images/necklace.png",
   },
   {
     id: "3",
