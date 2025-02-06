@@ -53,7 +53,7 @@ const products: Product[] = [
     discountPercentage: 10,
     rating: 5,
     reviews: 5,
-    imageUrl: "/images/cap.jfif",
+    imageUrl: "/images/cap.png",
   },
   {
     id: "5",
@@ -63,7 +63,7 @@ const products: Product[] = [
     discountPercentage: 10,
     rating: 5,
     reviews: 5,
-    imageUrl: "/images/cricket.jfif",
+    imageUrl: "/images/cricket.png",
   },
   {
     id: "6",
@@ -73,7 +73,7 @@ const products: Product[] = [
     discountPercentage: 10,
     rating: 5,
     reviews: 5,
-    imageUrl: "/images/watch.jfif",
+    imageUrl: "/images/watch.png",
   },
 ];
 
