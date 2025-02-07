@@ -81,7 +81,7 @@ const ContactUs = () => {
         <div className="flex items-center justify-center">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="/assets/new2.jpeg"
+            src="/images/media.png"
             alt="Team Photo"
             className="rounded-lg w-[50rem] h-[40rem] opacity-80 hover:opacity-100 transition-opacity duration-300 shadow-xl"
           />

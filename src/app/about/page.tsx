@@ -44,7 +44,7 @@ const AboutUs = () => {
         <div className="overflow-hidden rounded-lg">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="/assets/ab2.webp"
+            src="/images/Air.png"
             alt="Products headquarters"
             className="rounded-md w-full h-auto object-contain transform hover:scale-105 transition-transform duration-500"
           />
@@ -64,7 +64,7 @@ const AboutUs = () => {
         <div className="md:order-2 overflow-hidden rounded-lg">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="/assets/boy3.webp"
+            src="/images/expert.png"
             alt="Expert team members"
             className="rounded-md w-full h-auto object-contain transform hover:scale-105 transition-transform duration-500"
           />
@@ -83,7 +83,7 @@ const AboutUs = () => {
         <div className="overflow-hidden rounded-lg">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="/assets/boy.webp"
+            src="/images/gaming.png"
             alt="Smooth gaming experience"
             className="rounded-md w-full h-auto object-contain transform hover:scale-105 transition-transform duration-500"
           />

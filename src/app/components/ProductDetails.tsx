@@ -178,13 +178,22 @@ const ProductDetails: React.FC<Props> = ({ product }) => {
           animate={{ opacity: 1, y: 0 }}
           className="relative"
         >
-          <Image
+          {/* <Image
             src={urlFor(product.image[0]).url()} // Use the first image
             alt={product.name}
             width={500}
             height={500}
             className="rounded-lg"
-          />
+          /> */}
+        <Image
+  src={product.image?.[0] ? urlFor(product.image[0]).url() : ""}
+  alt={product.name || "Product Image"}
+  width={500}
+  height={500}
+  className="rounded-lg"
+/>
+
+
         </motion.div>
 
         <div>
